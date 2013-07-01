@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bbarriciello</string>
+    <string name="dummy_button">Entra</string>
+    <string name="dummy_content">Bbarriciello\napp</string>
+    <string name="messaggio">ciaooooo</string>
+    <string name="testo_main">pagina di \nprova</string>
+    <string name="descrizione_img">logo_bg</string>
+
+</resources>
